@@ -103,7 +103,7 @@ body {
   width: min(744px, 90vw);
 }
 #content a {
-  color: #404040;
+  color: #808080;
   text-decoration: none;
 }
 #content a:hover {
