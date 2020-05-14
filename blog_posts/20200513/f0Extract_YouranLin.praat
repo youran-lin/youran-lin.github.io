@@ -1,8 +1,6 @@
 # This script is written by Youran Lin (youran1@ualberta.ca) on April 5th, 2020
 # It will provide 10-point normalized f0 contour and the duration
 # Store the sound files and the TextGrid files (same name) under the same directory 
-# Change the directory at the top and bottom from "C:\Users\19930\Desktop\" to your directory
-# The directory always ends with a "\" Don't store other sound files or TextGrids in this folder 
 # TextGrid tier name should be "1" or you can change accordingly in the script, don't use point tiers
 # Label the tone number, it'll show up in the output table
 
