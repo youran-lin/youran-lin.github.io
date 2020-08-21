@@ -115,6 +115,8 @@ body {
   text-indent: 24px;
   text-align: justify;
   text-justify: inter-word;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 #content .paper {
   text-indent: -24px;
