@@ -1,4 +1,4 @@
-let path = "https://youran-lin.github.io/"
+let path = "D:/001/xoxo/"
 
 let title = "\
 <div id='photo'></div>\
@@ -12,7 +12,11 @@ let menu = "\
 </div>\
  | \
 <div class='menuitem'>\
-  <a href='" + path + "about.html'>About</a>\
+  <a href='" + path + "CV.html'>CV</a>\
+</div>\
+ | \
+<div class='menuitem'>\
+  <a href='" + path + "portfolio.html'>Portfolio</a>\
 </div>\
  | \
 <div class='menuitem'>\
