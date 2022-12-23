@@ -12,7 +12,7 @@ let menu = "\
 </div>\
  | \
 <div class='menuitem'>\
-  <a href='" + path + "CV.html'>CV</a>\
+  <a href='" + path + "cv.html'>CV</a>\
 </div>\
  | \
 <div class='menuitem'>\
