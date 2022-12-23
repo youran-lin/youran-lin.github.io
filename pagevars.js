@@ -1,4 +1,4 @@
-let path = "http://youran-lin.github.io"
+let path = "https://youran-lin.github.io"
 
 let title = "\
 <div id='photo'></div>\
